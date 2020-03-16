@@ -1,0 +1,7 @@
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\bin\FlyweightPattern.dll.config
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\bin\FlyweightPattern.dll
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\bin\FlyweightPattern.pdb
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csprojAssemblyReference.cache
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.dll
+C:\Users\chris\Source\repos\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
